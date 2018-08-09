@@ -1,4 +1,4 @@
 package nl.brothersome.ecm.model;
 
-public class NumberContentException {
+public class NumberContentException extends Exception {
 }

@@ -1,4 +1,4 @@
 package nl.brothersome.ecm.configuration;
 
-public class ConfigurationException {
+public class ConfigurationException extends Exception {
 }
